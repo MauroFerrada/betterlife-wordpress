@@ -1,0 +1,1533 @@
+# Copyright (C) 2024 pewilliams
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fitness Insight 6.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fitness-insight\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-24T16:06:34+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: fitness-insight\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Fitness Insight"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/free-fitness-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Fitness Insight is an elegant and multipurpose theme suitable for fitness institutes, gym club, personal trainers, health coach, yoga centre, diet planning, indoor and outdoor exercise class, fitness enthusiasts, weight loss plans, healthy diet, Art of living, Sports Instructor, sport activity, health experts, boot camps, diet planner, medical suppliments, weight loss coach, fitness coach gym centers, yoga studios, Fit bit, accupressure, Fitness Park, health clubs, gymnasiums, weight loss, healthcare centres, workout studios, yoga studio websites, karate, dancing, BMI calculator, Class timetable, fitness appointments workout, aerobic, ballet, pilates, gyms, sport club, training, multi martial arts MMA, bodybuilding, fitness courses, physiotherapist, powerlift, health-related website, athlete, crossfit, fitness trainer, gym, sports nutrition, sportswear, trainer dieticians, physiotherapy, wellness, workout, lifestyle, aerobics, boxing, cross fit, massage center, cardio, meditation, cross fit, zo yoga classes, muscular, Rehabilitation, Sports therapy, exercise class, zumba dance class, Ayurveda training, spiritual class, health advisors. This theme has a responsive layout which means it fits in all devices and screen sizes. It is a SEO-friendly as well as user-friendly theme with lots of options for customization like advanced typography, Call to action Section, sticky menu etc. It is cleanly coded which is responsible for faster page load times. Based on bootstrap framework and has social media integration. Also, the theme is cross-browser compatible and is translation ready. This theme is Woocommerce compatible which makes it possible to sell your fitness oriented products online. Make your online presence healthy! Demo: https://trial.ovationthemes.com/fitness-insight"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: 404.php:23
+#: 404.php:51
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+#: 404.php:55
+msgid "GO BACK"
+msgstr ""
+
+#: 404.php:32
+#: 404.php:52
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:50
+msgid "404"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:109
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: functions.php:112
+#: inc/dashboard/dashboard.php:120
+msgid "Live Demo"
+msgstr ""
+
+#: functions.php:113
+#: inc/dashboard/dashboard.php:121
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:114
+#: inc/dashboard/dashboard.php:5
+msgid "Begin Installation"
+msgstr ""
+
+#: functions.php:191
+msgid "Fitness WordPress Theme"
+msgstr ""
+
+#: functions.php:194
+msgid " By Ovation Themes"
+msgstr ""
+
+#: functions.php:292
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:329
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:331
+#: functions.php:351
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:339
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:341
+msgid "Add widgets here to appear in your pages and posts"
+msgstr ""
+
+#: functions.php:349
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:359
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:361
+#: functions.php:371
+#: functions.php:381
+#: functions.php:391
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:369
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:379
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:389
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:129
+#: template-parts/navigation/navigation.php:11
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-header.php:22
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer-home-page.php:11
+msgid "Custom Page Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:16
+msgid "Contact info"
+msgstr ""
+
+#: inc/customizer-home-page.php:26
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:27
+msgid "Add contact info in the below feilds"
+msgstr ""
+
+#: inc/customizer-home-page.php:36
+#: inc/customizer-home-page.php:72
+msgid "Add Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:50
+msgid "Add Phone Number"
+msgstr ""
+
+#: inc/customizer-home-page.php:61
+msgid "Add Call Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:82
+msgid "Add Email Address"
+msgstr ""
+
+#: inc/customizer-home-page.php:93
+msgid "Add Email Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:102
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer-home-page.php:112
+msgid "Social Media Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:113
+msgid "Add social media links in the below feilds"
+msgstr ""
+
+#: inc/customizer-home-page.php:135
+msgid "Check to show social fields"
+msgstr ""
+
+#: inc/customizer-home-page.php:137
+#: inc/customizer-home-page.php:200
+#: inc/customizer-home-page.php:259
+#: inc/customizer-home-page.php:318
+#: inc/customizer-home-page.php:377
+#: inc/customizer-home-page.php:449
+#: inc/customizer-home-page.php:491
+#: inc/customizer-home-page.php:565
+#: inc/customizer.php:64
+#: inc/customizer.php:89
+#: inc/customizer.php:328
+#: inc/customizer.php:365
+#: inc/customizer.php:465
+#: inc/customizer.php:535
+#: inc/customizer.php:574
+#: inc/customizer.php:648
+#: inc/customizer.php:689
+#: inc/customizer.php:730
+#: inc/customizer.php:767
+#: inc/customizer.php:804
+#: inc/customizer.php:833
+#: inc/customizer.php:992
+#: inc/customizer.php:1045
+#: inc/customizer.php:1086
+#: inc/customizer.php:1127
+#: inc/customizer.php:1213
+#: inc/customizer.php:1259
+#: inc/customizer.php:1297
+#: inc/customizer.php:1495
+#: inc/customizer.php:1539
+#: inc/customizer.php:1567
+#: inc/customizer.php:1605
+#: inc/customizer.php:1632
+#: inc/customizer.php:1660
+msgid "On"
+msgstr ""
+
+#: inc/customizer-home-page.php:138
+#: inc/customizer-home-page.php:201
+#: inc/customizer-home-page.php:260
+#: inc/customizer-home-page.php:319
+#: inc/customizer-home-page.php:378
+#: inc/customizer-home-page.php:450
+#: inc/customizer-home-page.php:492
+#: inc/customizer-home-page.php:566
+#: inc/customizer.php:65
+#: inc/customizer.php:90
+#: inc/customizer.php:329
+#: inc/customizer.php:366
+#: inc/customizer.php:466
+#: inc/customizer.php:536
+#: inc/customizer.php:575
+#: inc/customizer.php:649
+#: inc/customizer.php:690
+#: inc/customizer.php:731
+#: inc/customizer.php:768
+#: inc/customizer.php:805
+#: inc/customizer.php:834
+#: inc/customizer.php:993
+#: inc/customizer.php:1046
+#: inc/customizer.php:1087
+#: inc/customizer.php:1128
+#: inc/customizer.php:1214
+#: inc/customizer.php:1260
+#: inc/customizer.php:1298
+#: inc/customizer.php:1496
+#: inc/customizer.php:1540
+#: inc/customizer.php:1568
+#: inc/customizer.php:1606
+#: inc/customizer.php:1633
+#: inc/customizer.php:1661
+msgid "Off"
+msgstr ""
+
+#: inc/customizer-home-page.php:150
+msgid "Twittter Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:160
+#: inc/customizer-home-page.php:223
+#: inc/customizer-home-page.php:282
+#: inc/customizer-home-page.php:341
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:175
+#: inc/customizer-home-page.php:234
+#: inc/customizer-home-page.php:293
+#: inc/customizer-home-page.php:352
+msgid "Add URL"
+msgstr ""
+
+#: inc/customizer-home-page.php:198
+#: inc/customizer-home-page.php:257
+#: inc/customizer-home-page.php:316
+#: inc/customizer-home-page.php:375
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/customizer-home-page.php:213
+msgid "Linkedin Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:272
+msgid "Youtube Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:331
+msgid "Instagram Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:387
+#: inc/customizer-home-page.php:397
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:398
+msgid "Slider Image Dimension ( 600px x 700px )"
+msgstr ""
+
+#: inc/customizer-home-page.php:407
+#: inc/customizer-home-page.php:575
+msgid "Select"
+msgstr ""
+
+#: inc/customizer-home-page.php:418
+#: inc/customizer-home-page.php:614
+msgid "Select post"
+msgstr ""
+
+#: inc/customizer-home-page.php:447
+msgid "Show Hide excerpt"
+msgstr ""
+
+#: inc/customizer-home-page.php:461
+#: inc/customizer.php:954
+msgid "Excerpt Limit"
+msgstr ""
+
+#: inc/customizer-home-page.php:489
+msgid "Show Hide Button"
+msgstr ""
+
+#: inc/customizer-home-page.php:502
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:518
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: inc/customizer-home-page.php:521
+#: inc/customizer-home-page.php:662
+#: inc/customizer.php:485
+msgid "LEFT"
+msgstr ""
+
+#: inc/customizer-home-page.php:522
+#: inc/customizer-home-page.php:663
+#: inc/customizer.php:486
+msgid "CENTER"
+msgstr ""
+
+#: inc/customizer-home-page.php:523
+#: inc/customizer-home-page.php:664
+#: inc/customizer.php:487
+msgid "RIGHT"
+msgstr ""
+
+#: inc/customizer-home-page.php:530
+#: inc/customizer-home-page.php:540
+msgid "Services Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:541
+msgid "Image Dimension ( 500 x 500 ) px"
+msgstr ""
+
+#: inc/customizer-home-page.php:563
+msgid "Check To Show Section"
+msgstr ""
+
+#: inc/customizer-home-page.php:585
+msgid "Post Increament"
+msgstr ""
+
+#: inc/customizer-home-page.php:600
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:622
+#: inc/dashboard/dashboard.php:94
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:632
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:641
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:659
+msgid "Footer Content Alignment"
+msgstr ""
+
+#: inc/customizer-home-page.php:679
+msgid "Footer Per Column"
+msgstr ""
+
+#: inc/customizer-home-page.php:682
+#: inc/customizer.php:925
+msgid "1"
+msgstr ""
+
+#: inc/customizer-home-page.php:683
+#: inc/customizer.php:926
+msgid "2"
+msgstr ""
+
+#: inc/customizer-home-page.php:684
+#: inc/customizer.php:927
+msgid "3"
+msgstr ""
+
+#: inc/customizer-home-page.php:685
+#: inc/customizer.php:928
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Show Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:99
+#: inc/customizer.php:1738
+#: inc/customizer.php:1773
+msgid "UPGRADE FITNESS PREMIUM"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "FITNESS PREMIUM"
+msgstr ""
+
+#: inc/customizer.php:115
+#: inc/customizer.php:125
+msgid "Global Colors"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Theme Second Color"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Theme Third Color"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Theme Heading Color"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Theme Text Color"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "theme Color Light"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Footer Bg color"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "White Bg color"
+msgstr ""
+
+#: inc/customizer.php:228
+#: inc/customizer.php:270
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Select your suitable font for the headings."
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Select your suitable font for the body."
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Theme General Settings"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Sticky Header Setting"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Show Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Loader Setting"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Show Site Loader"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid "Select Loader Design"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Bar"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "theme Width Setting"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Theme Width Option"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Container"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Menus Text Transform"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "CAPITALISE"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "LOWERCASE"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "show Scroll Top"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Scroll Top Alignment"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Add Scroll Top Icon"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Cursor Setting"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "show custom cursor"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "Animation Setting"
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "show/Hide Animation"
+msgstr ""
+
+#: inc/customizer.php:584
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer.php:588
+msgid "Single-Post Layout"
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Single Post Structure"
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "select Single Post Page Layout"
+msgstr ""
+
+#: inc/customizer.php:617
+#: inc/customizer.php:879
+#: inc/customizer.php:1348
+#: inc/customizer.php:1377
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:621
+#: inc/customizer.php:883
+#: inc/customizer.php:1352
+#: inc/customizer.php:1381
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:625
+#: inc/customizer.php:887
+#: inc/customizer.php:1409
+#: inc/customizer.php:1453
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:646
+#: inc/customizer.php:990
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer.php:665
+#: inc/customizer.php:1009
+msgid "date Icon"
+msgstr ""
+
+#: inc/customizer.php:687
+#: inc/customizer.php:1043
+msgid "Show Author/Admin"
+msgstr ""
+
+#: inc/customizer.php:706
+#: inc/customizer.php:1062
+msgid "Author Icon"
+msgstr ""
+
+#: inc/customizer.php:728
+#: inc/customizer.php:1084
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer.php:743
+#: inc/customizer.php:1103
+msgid "comment Icon"
+msgstr ""
+
+#: inc/customizer.php:765
+#: inc/customizer.php:1125
+msgid "Show tag count"
+msgstr ""
+
+#: inc/customizer.php:780
+#: inc/customizer.php:1144
+msgid "tag Icon"
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer.php:831
+msgid "Show Similar post"
+msgstr ""
+
+#: inc/customizer.php:845
+msgid "Similar Post Heading"
+msgstr ""
+
+#: inc/customizer.php:851
+msgid "Archieve-Post Layout"
+msgstr ""
+
+#: inc/customizer.php:860
+msgid "Archieve Post Structure"
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "select Post Page Layout"
+msgstr ""
+
+#: inc/customizer.php:891
+#: inc/customizer.php:1411
+#: inc/customizer.php:1455
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Grid-Right-Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:903
+msgid "Grid-Left-Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:907
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:922
+msgid "Grid Post Per Row"
+msgstr ""
+
+#: inc/customizer.php:937
+msgid "Post Order"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "title"
+msgstr ""
+
+#: inc/customizer.php:942
+msgid "media"
+msgstr ""
+
+#: inc/customizer.php:943
+msgid "meta"
+msgstr ""
+
+#: inc/customizer.php:944
+msgid "excerpt"
+msgstr ""
+
+#: inc/customizer.php:945
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:969
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "Sticky Post Icon"
+msgstr ""
+
+#: inc/customizer.php:1158
+msgid "Header Image Settings"
+msgstr ""
+
+#: inc/customizer.php:1170
+msgid "Select Option"
+msgstr ""
+
+#: inc/customizer.php:1173
+msgid "With Header Image"
+msgstr ""
+
+#: inc/customizer.php:1174
+msgid "Without Header Image"
+msgstr ""
+
+#: inc/customizer.php:1180
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:1189
+msgid " Theme Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:1211
+#: inc/customizer.php:1257
+#: inc/customizer.php:1295
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1225
+#: inc/customizer.php:1309
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:1235
+msgid "Single post & Page"
+msgstr ""
+
+#: inc/customizer.php:1273
+msgid "Woocommerce Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1318
+msgid "Custom Woocommerce Settings"
+msgstr ""
+
+#: inc/customizer.php:1328
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer.php:1342
+msgid "Show Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1356
+#: inc/customizer.php:1385
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:1371
+msgid "Show Single Product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1396
+msgid "Archieve Product Settings"
+msgstr ""
+
+#: inc/customizer.php:1406
+#: inc/customizer.php:1450
+msgid "Select No of Columns"
+msgstr ""
+
+#: inc/customizer.php:1410
+#: inc/customizer.php:1454
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:1412
+#: inc/customizer.php:1456
+msgid "four Column"
+msgstr ""
+
+#: inc/customizer.php:1413
+#: inc/customizer.php:1457
+msgid "Five Column"
+msgstr ""
+
+#: inc/customizer.php:1414
+#: inc/customizer.php:1458
+msgid "Six Column"
+msgstr ""
+
+#: inc/customizer.php:1425
+#: inc/customizer.php:1469
+msgid "Display Products"
+msgstr ""
+
+#: inc/customizer.php:1440
+msgid "Related Product Settings"
+msgstr ""
+
+#: inc/customizer.php:1493
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/customizer.php:1505
+#: inc/customizer.php:1514
+msgid "Mobile Media settings"
+msgstr ""
+
+#: inc/customizer.php:1536
+msgid "Show Slider Button"
+msgstr ""
+
+#: inc/customizer.php:1537
+msgid "Control wont function if the button is off in the main slider settings."
+msgstr ""
+
+#: inc/customizer.php:1564
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/customizer.php:1565
+msgid "Control wont function if scroll-top is off in the main settings."
+msgstr ""
+
+#: inc/customizer.php:1580
+msgid "Mobile Breadcrumb settings"
+msgstr ""
+
+#: inc/customizer.php:1581
+msgid "Controls wont function if the breadcrumb is off in the main breadcrumb settings."
+msgstr ""
+
+#: inc/customizer.php:1603
+msgid "Theme Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1630
+msgid "Single Post & Page"
+msgstr ""
+
+#: inc/customizer.php:1658
+msgid "wooCommerce Breadcrumb"
+msgstr ""
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:1695
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:1696
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr ""
+
+#: inc/customizer.php:1729
+#: inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/products/fitness-wordpress-theme"
+msgstr ""
+
+#: inc/customizer.php:1745
+msgid "FITNESS PREMIUM - Features"
+msgstr ""
+
+#: inc/customizer.php:1747
+#: inc/dashboard/dashboard.php:126
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/customizer.php:1748
+#: inc/dashboard/dashboard.php:127
+msgid "Boxed or fullwidth layout"
+msgstr ""
+
+#: inc/customizer.php:1749
+#: inc/dashboard/dashboard.php:128
+msgid "Shortcode Support"
+msgstr ""
+
+#: inc/customizer.php:1750
+#: inc/dashboard/dashboard.php:129
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/customizer.php:1751
+#: inc/dashboard/dashboard.php:130
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer.php:1752
+#: inc/dashboard/dashboard.php:131
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/customizer.php:1753
+#: inc/dashboard/dashboard.php:132
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/customizer.php:1754
+#: inc/dashboard/dashboard.php:133
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/customizer.php:1755
+#: inc/dashboard/dashboard.php:134
+msgid "Designed with HTML5 and CSS3"
+msgstr ""
+
+#: inc/customizer.php:1756
+#: inc/dashboard/dashboard.php:135
+msgid "Customizable Design & Code"
+msgstr ""
+
+#: inc/customizer.php:1757
+#: inc/dashboard/dashboard.php:136
+msgid "Cross Browser Support"
+msgstr ""
+
+#: inc/customizer.php:1758
+#: inc/dashboard/dashboard.php:137
+msgid "Detailed Documentation Included"
+msgstr ""
+
+#: inc/customizer.php:1759
+#: inc/dashboard/dashboard.php:138
+msgid "Stylish Custom Widgets"
+msgstr ""
+
+#: inc/customizer.php:1760
+#: inc/dashboard/dashboard.php:139
+msgid "Patterns Background"
+msgstr ""
+
+#: inc/customizer.php:1761
+#: inc/dashboard/dashboard.php:140
+msgid "WPML Compatible (Translation Ready)"
+msgstr ""
+
+#: inc/customizer.php:1762
+#: inc/dashboard/dashboard.php:141
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: inc/customizer.php:1763
+#: inc/dashboard/dashboard.php:142
+msgid "Full Support"
+msgstr ""
+
+#: inc/customizer.php:1764
+#: inc/dashboard/dashboard.php:143
+msgid "10+ Sections"
+msgstr ""
+
+#: inc/customizer.php:1765
+#: inc/dashboard/dashboard.php:144
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/customizer.php:1766
+#: inc/dashboard/dashboard.php:145
+msgid "AMP Ready"
+msgstr ""
+
+#: inc/customizer.php:1767
+#: inc/dashboard/dashboard.php:146
+msgid "Clean Code"
+msgstr ""
+
+#: inc/customizer.php:1768
+#: inc/dashboard/dashboard.php:147
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/customizer.php:1769
+#: inc/dashboard/dashboard.php:148
+msgid "Supper Fast"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/fitness-insight/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/fitness-insight/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://trial.ovationthemes.com/fitness-insight/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://trial.ovationthemes.com/docs/ot-fitness-insight-pro/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:29
+msgid "https://trial.ovationthemes.com/docs/ot-fitness-insight-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium Fitness Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:48
+msgid "Version: "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:52
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:53
+msgid "Support"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:54
+msgid "Review"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:60
+msgid "DEMO IMPORT"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:61
+msgid "To import all of the demo content, click the Begin With Demo Import button."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:69
+#: inc/dashboard/dashboard.php:122
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:70
+msgid "To step the fitness theme follow the below steps."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:72
+msgid "1. Setup Logo"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:73
+msgid "Go to dashboard >> Appearance >> Customize >> Site Identity >> Upload your logo or Add site title and site description."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:74
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:76
+msgid "2. Setup Contact Info"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:77
+msgid "Go to dashboard >> Appearance >> Customize >> Contact info >> Add your phone number and email address."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:78
+msgid "Add Contact Info"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:80
+msgid "3. Setup Menus"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:81
+msgid "Go to dashboard >> Appearance >> Menus >> Create Menus >> Add pages, post or custom link then save it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:82
+msgid "Add Menus"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:84
+msgid "4. Setup Social Icons"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:85
+msgid "Go to dashboard >> Appearance >> Customize >> Social Media >> Add social links."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:86
+msgid "Add Social Icons"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:88
+msgid "5. Setup Footer"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:89
+msgid "Go to dashboard >> Appearance >> Widgets >> Add widgets in footer 1, footer 2, footer 3, footer 4. >> "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:90
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:92
+msgid "5. Setup Footer Text"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:93
+msgid "Go to dashboard >> Appearance >> Customize >> Footer Text >> Add copyright text. >> "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:96
+msgid "Setup Home Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:97
+msgid "To step the home page follow the below steps."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:99
+msgid "1. Setup Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:100
+msgid "Go to dashboard >> Pages >> Add New Page >> Select \"Custom Home Page\" from templates. >> Publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:101
+msgid "Add New Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:103
+msgid "2. Setup Slider"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:104
+#: inc/dashboard/dashboard.php:109
+msgid "Go to dashboard >> Post >> Add New Post >> Add title, content and featured image >> Publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:105
+msgid "Go to dashboard >> Appearance >> Customize >> Slider Settings >> Select post."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:106
+msgid "Add Slider"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:108
+msgid "3. Setup Services"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:110
+msgid "Go to dashboard >> Appearance >> Customize >> Services Settings >> Select post"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:111
+msgid "Go to dashboard >> Appearance >> Customize >> Services Settings >> Add Fontawesome icons classes ex: fas fa-envelope"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:112
+msgid "Add Services Post"
+msgstr ""
+
+#: inc/dashboard/setup.php:114
+msgid "Home"
+msgstr ""
+
+#: inc/dashboard/setup.php:122
+msgid "Pages"
+msgstr ""
+
+#: inc/dashboard/setup.php:130
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/dashboard/setup.php:139
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/dashboard/setup.php:147
+msgid "Timings"
+msgstr ""
+
+#: inc/dashboard/setup.php:154
+msgid "Trainers"
+msgstr ""
+
+#: inc/dashboard/setup.php:161
+msgid "Plans"
+msgstr ""
+
+#: inc/dashboard/setup.php:168
+msgid "Contact Us"
+msgstr ""
+
+#: inc/dashboard/setup.php:261
+msgid "If your website is already live and containing data, please make a backup.This importer will override the Fitness Insight's new customizable values."
+msgstr ""
+
+#: inc/dashboard/setup.php:263
+msgid "Begin With Demo Import"
+msgstr ""
+
+#: inc/dashboard/setup.php:264
+msgid "View Site"
+msgstr ""
+
+#: inc/dashboard/setup.php:269
+msgid "Demo Import Successful"
+msgstr ""
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:37
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: index.php:37
+#: index.php:65
+msgid "Posts"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr ""
+
+#: page-template/custom-home-page.php:48
+msgid "GET STARTED"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left Sidebar Template"
+msgstr ""
+
+#: page-template/left-sidebar.php:45
+#: page-template/left-sidebar.php:89
+#: page-template/right-sidebar.php:41
+#: page-template/right-sidebar.php:85
+#: page.php:42
+#: page.php:78
+msgid "Pages:"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Right Sidebar Template"
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:25
+#: search.php:54
+msgid "Results For: %s"
+msgstr ""
+
+#: search.php:37
+#: search.php:65
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:13
+#: template-parts/footer/footer-widgets.php:87
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:17
+#: template-parts/footer/footer-widgets.php:76
+msgid "Recent Posts"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:57
+msgid "Archieves"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:67
+msgid "Categories"
+msgstr ""
+
+#: template-parts/navigation/navigation.php:21
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/post/content-audio.php:37
+#: template-parts/post/content-gallery.php:45
+#: template-parts/post/content-image.php:40
+#: template-parts/post/content-quote.php:20
+#: template-parts/post/content-video.php:35
+#: template-parts/post/content.php:26
+#: template-parts/post/grid-audio.php:48
+#: template-parts/post/grid-gallery.php:56
+#: template-parts/post/grid-image.php:51
+#: template-parts/post/grid-quote.php:31
+#: template-parts/post/grid-video.php:47
+#: template-parts/post/grid.php:37
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-gallery.php:54
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-quote.php:29
+#: template-parts/post/content-video.php:44
+#: template-parts/post/content.php:35
+#: template-parts/post/grid-audio.php:57
+#: template-parts/post/grid-gallery.php:65
+#: template-parts/post/grid-image.php:60
+#: template-parts/post/grid-quote.php:40
+#: template-parts/post/grid-video.php:56
+#: template-parts/post/grid.php:46
+#: template-parts/post/single-page.php:39
+#: template-parts/post/single-page.php:202
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-gallery.php:54
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-quote.php:29
+#: template-parts/post/content-video.php:44
+#: template-parts/post/content.php:35
+#: template-parts/post/grid-audio.php:57
+#: template-parts/post/grid-gallery.php:65
+#: template-parts/post/grid-image.php:60
+#: template-parts/post/grid-quote.php:40
+#: template-parts/post/grid-video.php:56
+#: template-parts/post/grid.php:46
+#: template-parts/post/single-page.php:39
+#: template-parts/post/single-page.php:202
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/post/content-audio.php:56
+#: template-parts/post/content-gallery.php:64
+#: template-parts/post/content-image.php:57
+#: template-parts/post/content-video.php:54
+#: template-parts/post/content.php:45
+#: template-parts/post/grid-audio.php:67
+#: template-parts/post/grid-gallery.php:75
+#: template-parts/post/grid-image.php:68
+#: template-parts/post/grid-video.php:66
+#: template-parts/post/grid.php:56
+#: template-parts/post/similar-post.php:47
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/post-layout.php:28
+#: template-parts/post/post-layout.php:57
+#: template-parts/post/post-layout.php:84
+#: template-parts/post/post-layout.php:112
+#: template-parts/post/post-layout.php:141
+#: template-parts/post/post-layout.php:170
+#: template-parts/post/post-layout.php:199
+#: template-parts/post/post-layout.php:226
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/post/post-layout.php:29
+#: template-parts/post/post-layout.php:58
+#: template-parts/post/post-layout.php:85
+#: template-parts/post/post-layout.php:113
+#: template-parts/post/post-layout.php:142
+#: template-parts/post/post-layout.php:171
+#: template-parts/post/post-layout.php:200
+#: template-parts/post/post-layout.php:227
+msgid "Next page"
+msgstr ""
+
+#: template-parts/post/post-layout.php:30
+#: template-parts/post/post-layout.php:59
+#: template-parts/post/post-layout.php:86
+#: template-parts/post/post-layout.php:114
+#: template-parts/post/post-layout.php:143
+#: template-parts/post/post-layout.php:172
+#: template-parts/post/post-layout.php:201
+#: template-parts/post/post-layout.php:228
+msgid "Page"
+msgstr ""
+
+#: template-parts/post/similar-post.php:27
+msgid "Explore More"
+msgstr ""
+
+#: template-parts/post/single-page.php:80
+#: template-parts/post/single-page.php:123
+#: template-parts/post/single-page.php:164
+#: template-parts/post/single-page.php:245
+#: template-parts/post/single-page.php:291
+#: template-parts/post/single-page.php:335
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/post/single-page.php:80
+#: template-parts/post/single-page.php:123
+#: template-parts/post/single-page.php:164
+#: template-parts/post/single-page.php:245
+#: template-parts/post/single-page.php:291
+#: template-parts/post/single-page.php:335
+msgid "Previous"
+msgstr ""
+
+#: template-parts/post/single-page.php:81
+#: template-parts/post/single-page.php:124
+#: template-parts/post/single-page.php:165
+#: template-parts/post/single-page.php:246
+#: template-parts/post/single-page.php:292
+#: template-parts/post/single-page.php:336
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/post/single-page.php:81
+#: template-parts/post/single-page.php:124
+#: template-parts/post/single-page.php:165
+#: template-parts/post/single-page.php:246
+#: template-parts/post/single-page.php:292
+#: template-parts/post/single-page.php:336
+msgid "Next"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
