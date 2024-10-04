@@ -1,6 +1,4 @@
 # WordPress core files
-wp-admin/
-wp-includes/
 
 # WordPress content directories
 wp-content/uploads/
